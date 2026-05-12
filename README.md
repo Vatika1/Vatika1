@@ -14,6 +14,7 @@ A cloud-native **financial surveillance system** on AWS — a multi-service Spri
 
 #### 📫 Get in touch
 - 💼 [LinkedIn](https://www.linkedin.com/in/vatikaprasad)
+- Portfolio website: https://vatika1.github.io
 - 📍 Montreal, QC 🇨🇦
 - 🇫🇷 Bilingual EN/FR
 - Open to senior backend, cloud, and platform engineering roles
