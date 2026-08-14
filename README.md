@@ -1,6 +1,6 @@
 ### Hi, I'm Vatika 👋
 
-I'm a senior software engineer based in Montreal with 5+ years of experience building backend systems in Java and Spring Boot, including roles at Morgan Stanley and Lockheed Martin. I'm currently consulting independently and deepening my cloud and platform engineering skills.
+I'm a senior software engineer based in Montreal with 5+ years of experience building backend systems in Java and Spring Boot, including roles at Morgan Stanley and Lockheed Martin. 
 
 #### 🔭 Currently building
 A cloud-native **financial surveillance system** on AWS — a multi-service Spring Boot platform for trade ingestion, activity monitoring, and alerting, deployed on EKS with MSK (Kafka), RDS (PostgreSQL), and managed end-to-end with Terraform.
